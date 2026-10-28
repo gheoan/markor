@@ -72,7 +72,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="save_location">Локација за зачувување</string>
     <string name="select_storage_folder">Избери директориум за податоци</string>
     <string name="licenses">Лиценци</string>
-    <string name="changelog">Листа на промени</string>
     <string name="more_info">Повеќе информации</string>
     <string name="show_license_of_the_app">Покажи лиценца на апликацијата</string>
     <string name="show_third_party_licenses">Покажи лиценци од трети лица</string>

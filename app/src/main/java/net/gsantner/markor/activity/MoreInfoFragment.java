@@ -120,13 +120,6 @@ public class MoreInfoFragment extends GsPreferenceFragmentBase<AppSettings> {
                 }
                 case R.string.pref_key__more_info__copy_build_information: {
                     _cu.setClipboard(getContext(), preference.getSummary());
-                    GsSimpleMarkdownParser smp = new GsSimpleMarkdownParser();
-                    try {
-                        String html = smp.parse(getResources().openRawResource(R.raw.changelog), "", GsSimpleMarkdownParser.FILTER_ANDROID_TEXTVIEW).getHtml();
-                        _cu.showDialogWithHtmlTextView(getActivity(), R.string.changelog, html);
-                    } catch (Exception ex) {
-
-                    }
                     return true;
                 }
             }

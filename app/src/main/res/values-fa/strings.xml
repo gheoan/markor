@@ -72,7 +72,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="save_location">ذخیره مکان</string>
     <string name="select_storage_folder">انتخاب پوشه محل ذخیره</string>
     <string name="licenses">مجوزها</string>
-    <string name="changelog">لاگ تغییرات</string>
     <string name="more_info">اطلاعات بیشتر</string>
     <string name="show_license_of_the_app">نمایش مجوز این برنامه</string>
     <string name="show_third_party_licenses">نمایش مجوزهای شخص ثالث</string>

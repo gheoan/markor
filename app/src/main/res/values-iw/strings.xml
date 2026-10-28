@@ -72,7 +72,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="save_location">שמור מיקום</string>
     <string name="select_storage_folder">בחר תיקיית אחסון</string>
     <string name="licenses">רשיונות</string>
-    <string name="changelog">רשימת שינויים</string>
     <string name="more_info">מידע נוסף</string>
     <string name="show_license_of_the_app">הצג את הרשיון של האפליקציה</string>
     <string name="show_third_party_licenses">הצג רשיונות צד שלישי</string>

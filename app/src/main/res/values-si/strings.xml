@@ -71,7 +71,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="save_location">ස්ථානය සුරකින්න</string>
     <string name="select_storage_folder">ගබඩා ෆෝල්ඩරය තෝරන්න</string>
     <string name="licenses">බලපත්‍ර</string>
-    <string name="changelog">චේන්ජ්ලොග්</string>
     <string name="more_info">වැඩි විස්තර</string>
     <string name="show_license_of_the_app">යෙදුමේ බලපත්‍රය පෙන්වන්න</string>
     <string name="show_third_party_licenses">තුන්වන පාර්ශ්ව බලපත්‍ර පෙන්වන්න</string>

@@ -73,7 +73,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="saved_location_to">Disimpan ke %s</string>
     <string name="select_storage_folder">Pilih folder penyimpanan</string>
     <string name="licenses">Lisensi</string>
-    <string name="changelog">Catatan Perubahan</string>
     <string name="more_info">Info selengkapnya</string>
     <string name="show_license_of_the_app">Tampilkan lisensi dari aplikasi</string>
     <string name="show_third_party_licenses">Tampilkan lisensi pihak ketiga</string>

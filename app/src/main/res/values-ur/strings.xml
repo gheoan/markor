@@ -55,7 +55,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="name">نام</string>
     <string name="contributors">معاونین</string>
     <string name="licenses">لائسینسز</string>
-    <string name="changelog">لاگ تبدیل کریں</string>
     <string name="show_license_of_the_app">ایپ کا لائسینس دکھائیں</string>
     <string name="show_third_party_licenses">تھرڈ پارٹی لائسینسز دکھائیں</string>
     <string name="language_change_restart_description">ایپ کی زبان تبدیل کریں. یہ تبدیلی دیکھنے کیلئے ایپ ری سٹارٹ کریں</string>

@@ -28,7 +28,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="hide_statusbar">Сакриј статусну траку</string>
     <string name="contributors">Сарадници</string>
     <string name="licenses">Licence</string>
-    <string name="changelog">Дневник измена</string>
     <string name="show_license_of_the_app">Покажите лиценцу апликације</string>
     <string name="show_third_party_licenses">Прикажи лиценце треће стране</string>
     <string name="language_change_restart_description">Промените језик апликације. Поново покрените након тога</string>

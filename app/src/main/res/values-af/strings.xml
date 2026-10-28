@@ -21,7 +21,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="hide_statusbar">Versteek statusbalk</string>
     <string name="contributors">Bydraers</string>
     <string name="licenses">Lisensies</string>
-    <string name="changelog">Verandering-log</string>
     <string name="show_license_of_the_app">Toon lisensie van die app</string>
     <string name="show_third_party_licenses">Wys 3de partylisensies</string>
     <string name="language_change_restart_description">Verander taal van hierdie app. Herbegin app vir veranderinge wat in werking tree</string>

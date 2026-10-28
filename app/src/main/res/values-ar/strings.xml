@@ -76,7 +76,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="saved_location_to">تم الحفظ إلى %s</string>
     <string name="select_storage_folder">اختر مجلد حفظ</string>
     <string name="licenses">التراخيص</string>
-    <string name="changelog">سِجل التغييرات</string>
     <string name="more_info">مزيد من المعلومات</string>
     <string name="show_license_of_the_app">إظهار رخصة التطبيق</string>
     <string name="show_third_party_licenses">إظهار تراخيص الطرف الثالث</string>

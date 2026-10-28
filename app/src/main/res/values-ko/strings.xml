@@ -72,7 +72,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="save_location">위치 저장</string>
     <string name="select_storage_folder">저장 폴더 선택</string>
     <string name="licenses">라이선스</string>
-    <string name="changelog">변경사항</string>
     <string name="more_info">더 많은 정보</string>
     <string name="show_license_of_the_app">앱 저작권 표시</string>
     <string name="show_third_party_licenses">제3자 저작권 표시</string>

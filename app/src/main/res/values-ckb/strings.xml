@@ -66,7 +66,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="contributors">بەشداربووان</string>
     <string name="save_location">شوێنی پاراستن</string>
     <string name="licenses">مۆڵەت</string>
-    <string name="changelog">گۆڕانکارییەکان</string>
     <string name="more_info">زانیاری زیاتر</string>
     <string name="show_license_of_the_app">بینینی مۆڵەتی بەرنامەکە</string>
     <string name="language_change_restart_description">بۆ گۆڕینی زمان، پێویستە بەرنامەکە دابخەیت و دووبارە بیکەیتەوە</string>

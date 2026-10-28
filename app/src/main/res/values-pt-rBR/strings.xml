@@ -73,7 +73,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="saved_location_to">Salvo em %s</string>
     <string name="select_storage_folder">Escolher pasta de armazenamento</string>
     <string name="licenses">Licenças</string>
-    <string name="changelog">Histórico de mudanças</string>
     <string name="more_info">Mais informações</string>
     <string name="show_license_of_the_app">Exibir licença</string>
     <string name="show_third_party_licenses">Exibir licenças de terceiros</string>

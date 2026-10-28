@@ -18,7 +18,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="hide_statusbar">Fshih shiritin e statusit</string>
     <string name="contributors">Kontribuesit</string>
     <string name="licenses">Licensa</string>
-    <string name="changelog">Ndryshim</string>
     <string name="show_license_of_the_app">Shfaq licencën e aplikacionit</string>
     <string name="show_third_party_licenses">Shfaq licencat e palës së tretë</string>
     <string name="language_change_restart_description">Ndrysho gjuhën e këtij aplikacioni. Rinisni aplikacionin që ndryshimet të hyjnë në fuqi</string>

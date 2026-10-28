@@ -72,7 +72,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="save_location">Lugar ng Pagse-save-an</string>
     <string name="select_storage_folder">Pumili ng storage folder</string>
     <string name="licenses">Mga Lisensiya</string>
-    <string name="changelog">Mga Pagbabago</string>
     <string name="more_info">Karagdagang Impormasyon</string>
     <string name="show_license_of_the_app">Ipakita ang lisensiya ng app</string>
     <string name="show_third_party_licenses">Ipakita ang mga lisensiya ng mga ika-3 partido</string>

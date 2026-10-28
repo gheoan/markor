@@ -68,7 +68,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="contributors">Contribúen</string>
     <string name="select_storage_folder">Seleccionar cartafol de almacenamento</string>
     <string name="licenses">Licenzas</string>
-    <string name="changelog">Rexistro de cambios</string>
     <string name="more_info">Máis información</string>
     <string name="show_license_of_the_app">Licenza GNU GPLv3+</string>
     <string name="show_third_party_licenses">Código de terceiras partes</string>

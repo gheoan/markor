@@ -73,7 +73,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="saved_location_to">Αποθηκεύτηκε σε %s</string>
     <string name="select_storage_folder">Επιλογή φακέλου αποθήκευσης</string>
     <string name="licenses">Άδειες</string>
-    <string name="changelog">Αρχείο Αλλαγών</string>
     <string name="more_info">Περισσότερες πληροφορίες</string>
     <string name="show_license_of_the_app">Εμφάνιση άδειας της εφαρμογής</string>
     <string name="show_third_party_licenses">Εμφάνιση αδειών τρίτων</string>

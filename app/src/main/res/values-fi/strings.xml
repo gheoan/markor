@@ -72,7 +72,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="save_location">Tallenna sijainti</string>
     <string name="select_storage_folder">Valitse tallennuskansio</string>
     <string name="licenses">Lisenssit</string>
-    <string name="changelog">Muutosloki</string>
     <string name="more_info">Lisätietoja</string>
     <string name="show_license_of_the_app">Näytä sovelluksen lisenssi</string>
     <string name="show_third_party_licenses">Näytä 3. osapuolen lisenssit</string>

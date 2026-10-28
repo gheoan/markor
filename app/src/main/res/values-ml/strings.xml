@@ -69,7 +69,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="save_location">സേവ് ചെയ്യേണ്ട സ്ഥലം</string>
     <string name="select_storage_folder">സ്റ്റോറേജ് ഫോൾഡർ തിരഞ്ഞെടുക്കുക</string>
     <string name="licenses">അനുമതിപത്രം</string>
-    <string name="changelog">അടയാളപ്പെടുത്തിയ മാറ്റങ്ങൾ</string>
     <string name="more_info">കൂടുതൽ വിവരങ്ങൾ</string>
     <string name="show_license_of_the_app">അപ്പ്ലിക്കേഷന്റെ അനുമതിപത്രം കാണിക്കുക</string>
     <string name="show_third_party_licenses">3rd പാർട്ടി അനുമതിപത്രം കാണിക്കുക</string>

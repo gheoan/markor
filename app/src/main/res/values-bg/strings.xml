@@ -18,7 +18,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="hide_statusbar">Скрий лентата на състоянието</string>
     <string name="contributors">Сътрудници</string>
     <string name="licenses">Лицензи</string>
-    <string name="changelog">Преглед на измененията</string>
     <string name="show_license_of_the_app">Показване на лиценза на приложението</string>
     <string name="show_third_party_licenses">Показване на лицензи на трети страни</string>
     <string name="language_change_restart_description">Промяна на езика на това приложение. Рестартирайте приложението, за да влязат в сила промените</string>
