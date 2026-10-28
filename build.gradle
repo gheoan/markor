@@ -11,8 +11,6 @@ import java.text.SimpleDateFormat
 buildscript {
     ext {
         version_gradle_tools = '8.7.3'
-        version_plugin_kotlin = "1.3.72"
-        enable_plugin_kotlin = false
 
         version_compileSdk = 35
         version_buildTools = "35.0.0"
@@ -29,9 +27,6 @@ buildscript {
     dependencies {
         classpath "com.android.tools.build:gradle:${version_gradle_tools}"
         classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1'
-        if (project.enable_plugin_kotlin) {
-            classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:${version_plugin_kotlin}"
-        }
 
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files

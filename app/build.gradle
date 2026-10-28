@@ -7,11 +7,6 @@
  *
 #########################################################*/
 apply plugin: 'com.android.application'
-if (enable_plugin_kotlin) {
-    apply plugin: 'kotlin-android'
-    apply plugin: 'kotlin-android-extensions'
-    apply plugin: 'kotlin-kapt'
-}
 
 rootProject.ext.version_minSdk = 18
 
@@ -57,9 +52,6 @@ android {
 
     sourceSets {
         main { assets.srcDirs = ['src/main/assets'] }
-        if (enable_plugin_kotlin) {
-            main.java.srcDirs += 'src/main/kotlin'
-        }
         main.java.srcDirs += 'thirdparty/java'
         main.res.srcDirs += 'thirdparty/res'
         main.assets.srcDirs += 'thirdparty/assets'
@@ -146,17 +138,10 @@ dependencies {
     // Tool libraries
     //noinspection AnnotationProcessorOnCompilePath
     implementation 'commons-io:commons-io:2.7'
-    if (enable_plugin_kotlin) {
-        implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:${version_plugin_kotlin}"
-    }
 
     // Processors
     def anpros = []
     for (anpro in anpros) {
-        if (enable_plugin_kotlin) {
-            kapt anpro
-        } else {
-            annotationProcessor anpro
-        }
+        annotationProcessor anpro
     }
 }
