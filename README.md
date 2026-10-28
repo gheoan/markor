@@ -135,8 +135,6 @@ There is a Makefile in the project which makes it easy to test, lint, build, ins
 You can find binaries (.apk), logs, test results & other outputs in the dist/ directory.  
 Example: `make all install run`.
 
-The project code style is the [AOSP Java Code Style](https://source.android.com/source/code-style#follow-field-naming-conventions). Use the _auto reformat_ menu option of Android Studio before commiting or before you create the pull request.
-
 ### Technologies / Dependencies
 * Java, Android SDK, AndroidX
 * No dependency on NDK, 1 APK = all Android supported Architectures
