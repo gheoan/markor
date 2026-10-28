@@ -98,7 +98,8 @@ public class MainActivity extends MarkorBaseActivity implements GsFileBrowserFra
 
         // Setup viewpager
         _viewPager.setAdapter(new SectionsPagerAdapter(getSupportFragmentManager()));
-        _viewPager.setOffscreenPageLimit(4);
+        // Keep only adjacent pages ready to reduce the work done during startup
+        _viewPager.setOffscreenPageLimit(1);
         _bottomNav.setOnItemSelectedListener((item) -> {
             _viewPager.setCurrentItem(tabIdToPos(item.getItemId()));
             return true;
