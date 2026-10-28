@@ -47,7 +47,6 @@ import net.gsantner.opoc.frontend.filebrowser.GsFileBrowserOptions;
 import java.io.File;
 import java.io.IOException;
 import java.lang.reflect.Field;
-import java.util.concurrent.TimeUnit;
 
 import other.writeily.widget.WrMarkorWidgetProvider;
 
@@ -94,7 +93,6 @@ public class MainActivity extends MarkorBaseActivity implements GsFileBrowserFra
         });
 
         setSupportActionBar(findViewById(R.id.toolbar));
-        optShowRate();
 
         // Setup viewpager
         _viewPager.setAdapter(new SectionsPagerAdapter(getSupportFragmentManager()));
@@ -199,17 +197,6 @@ public class MainActivity extends MarkorBaseActivity implements GsFileBrowserFra
                 _notebook.getAdapter().showFile(file);
             }
             _notebook.setReloadRequiredOnResume(false);
-        }
-    }
-
-    private void optShowRate() {
-        try {
-            new com.pixplicity.generate.Rate.Builder(this)
-                    .setTriggerCount(4)
-                    .setMinimumInstallTime((int) TimeUnit.MINUTES.toMillis(30))
-                    .setFeedbackAction(() -> _cu.showGooglePlayEntryForThisApp(MainActivity.this))
-                    .build().count().showRequest();
-        } catch (Exception ignored) {
         }
     }
 
